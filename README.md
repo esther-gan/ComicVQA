@@ -1,4 +1,4 @@
-# ComicVQA: A benchmark for Visual Reasoning in Multimodal LLMs
+# ComicVQA: A Benchmark for Visual Reasoning in Multimodal LLMs
 
 **ComicVQA** is a specialized diagnostic benchmark designed to assess the visual reasoning capabilities of Multimodal Large Language Models (MLLMs) in the comics domain. ComicVQA focuses of 2 distinct reasoning tasks: 
 1. **Missing Panel Prediction**: Predict the missing panel given a comic sequence.
