@@ -4,6 +4,8 @@
 
 Check out our paper [here](https://aclanthology.org/2026.findings-acl.1268/)
 
+Check out our dataset [here](https://huggingface.co/datasets/project-works/ComicVQA)
+
 **ComicVQA** is a specialized diagnostic benchmark designed to assess the visual reasoning capabilities of Multimodal Large Language Models (MLLMs) in the comics domain. ComicVQA focuses of 2 distinct reasoning tasks: 
 1. **Missing Panel Prediction**: Predict the missing panel given a comic sequence.
 2. **Panel Sorting**: Choose which of the 4 comic sequences is the correct arrangement.
